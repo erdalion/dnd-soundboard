@@ -1,0 +1,9 @@
+[submodule "dnd-soundboard-puszczacz"]
+	path = dnd-soundboard-puszczacz
+	url = https://github.com/erdalion/dnd-soundboard-puszczacz
+[submodule "dnd-soundboard-client"]
+	path = dnd-soundboard-client
+	url = https://github.com/erdalion/dnd-soundboard-client
+[submodule "dnd-soundboard-server"]
+	path = dnd-soundboard-server
+	url = https://github.com/erdalion/dnd-soundboard-server
